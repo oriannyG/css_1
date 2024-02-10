@@ -2,7 +2,26 @@
     color: darkred;
 } */
 
+/* selector a partir de una etiqueta */
 h2 {
-    color: darkgoldenrod;
+    color: rgb(161, 38, 161);
+    font-size: 40px;
 }
 
+/* Selector a partir de una clase */
+.texto-verde {
+    color: greenyellow;
+}
+
+footer {
+    color: pink;
+}
+
+/* selector a partir de un id */
+#parrafo-rosa {
+    color: palevioletred;
+}
+
+header p {
+    color: darkseagreen;
+}
